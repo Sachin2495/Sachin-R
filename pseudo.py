@@ -9,7 +9,7 @@ import pyautogui
 import pytesseract
 from PIL import Image
 
-api_key = "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"
+api_key = "ENTER YOU OPENAI API KEY"
 lang = 'en'
 openai.api_key = api_key
 
